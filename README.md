@@ -1,7 +1,7 @@
 # Testes automatizados utilizando robot framework
 
 
-**Tecnologia utilizada:**
+**Tecnologiaa utilizada:**
  * Robot framework: 3.2.2
    * Mais informações disponível em https://robotframework.org/#libraries
  * Python: 3.9.2
